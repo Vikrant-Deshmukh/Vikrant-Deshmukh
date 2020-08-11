@@ -1,4 +1,4 @@
-### Hi there, I'm Vikrant Deshmukh 👋
+### Hi there,
 <img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/banner2.jpg">
 
 - 🔭 I’m currently working on Python Flask Projects
@@ -14,10 +14,13 @@
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+
+<br> Design 
+<img align="left" alt="Illustrator" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/illustrator.svg" />
+
 <br />
 <br />
 
