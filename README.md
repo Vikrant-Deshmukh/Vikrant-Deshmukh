@@ -2,13 +2,8 @@
 <img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/banner2.jpg">
 
 - 🔭 I’m currently working on Python Flask Projects
-- 🌱 I’m currently learning Flask 
 - 👯 I’m looking to collaborate on anything Python :p
-- 💬 Ask me about Web development
-- 📫 How to reach me: [Gmail].(mailto:vikrant.deshmukh218@siesgst.ac.in)
 - ⚡ Fun fact: I'm also a Health & Training Coach ;)
-
-- Sharing updated on [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
