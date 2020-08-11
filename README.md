@@ -6,5 +6,6 @@
 - 💬 Ask me about Web development
 - 📫 How to reach me: [Gmail].(mailto:vikrant.deshmukh218@siesgst.ac.in)
 - ⚡ Fun fact: I'm also a Health & Training Coach ;)
-https://github-readme-stats.vercel.app/api?username=vikrant-deshmukh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikrant-deshmukh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
