@@ -1,5 +1,5 @@
 ### Hi there,
-<img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/banner4.jpg">
+<img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/banner4.png">
 
 - 🔭 I’m currently working on Python Flask Projects
 - 👯 I’m looking to collaborate on anything Python :p
