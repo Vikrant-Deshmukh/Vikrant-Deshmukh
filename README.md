@@ -1,4 +1,4 @@
-### Hi there,
+
 <img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/banner2.jpg">
 
 - 🔭 I’m currently working on Python Flask Projects
