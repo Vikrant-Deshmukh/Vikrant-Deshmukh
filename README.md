@@ -1,9 +1,9 @@
 
 <img src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/Black%20Technology%20LinkedIn.png">
--I'm a software engineer who is passionate about making open-source projects, creating technology to elevate and inspire people, and build a Strong community. 
-- 🔭 I’m currently working on Python Flask Projects
-- 👯 I’m looking to collaborate on anything Python :p
-- ⚡ Fun fact: I'm also a Health & Training Coach ;)
+I'm a software engineer who is passionate about making open-source projects, creating technology to elevate and inspire people, and build a Strong community. 
+🔭 I’m currently working on Python Flask Projects
+👯 I’m looking to collaborate on anything Python :p
+⚡ Fun fact: I'm also a Health & Training Coach ;)
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
