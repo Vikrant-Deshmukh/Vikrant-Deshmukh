@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about making open-source projects, cre
 👯 I’m looking to collaborate on anything Python :p
 ⚡ Fun fact: I'm also a Health & Training Coach ;)
 
-### Languages and Tools:
+### Development Stack:
 <img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/docker.svg" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/elasticsearch.svg" />
