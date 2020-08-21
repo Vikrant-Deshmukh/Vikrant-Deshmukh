@@ -5,11 +5,19 @@ I’m currently working and looking to collaborate on anything Python :p <br>
 ⚡ Fun fact: I'm also a Health & Training Coach ;)
                                                                   Development Stack
 
+<<<<<<< HEAD
                                                                
 <img align="center" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
 <img align="center" alt="Docker" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/docker.svg" />
 <img align="center" alt="Elasticsearch" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/elasticsearch.svg" />
 <img align="center" alt="Tableau" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/tableau.svg" />
+=======
+### Development Stack:
+<img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/docker.svg" />
+<img align="left" alt="Elasticsearch" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/elasticsearch.svg" />
+<img align="left" alt="Tableau" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/tableau.svg" />
+>>>>>>> parent of b0ebde3... Update README.md
 
 <img align="center" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
