@@ -4,8 +4,8 @@ I'm a software developer who is passionate about making open-source projects, cr
 I’m currently working and looking to collaborate on anything Python :p <br>
 ⚡ Fun fact: I'm also a Health & Training Coach ;)
 
-                                       <p style="text-align: center;"> Development Stack: /p>
-<img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
+                                                               Development Stack
+<img align="center" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/docker.svg" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/elasticsearch.svg" />
 <img align="left" alt="Tableau" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/tableau.svg" />
