@@ -19,7 +19,3 @@ I’m currently working and looking to collaborate on anything 🐍  Python :p <
 <img align="left" alt="Figma" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/figma.svg" />
 <br />
 <br />
-
-<img align="right" width="150px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/animated_2.gif">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrant-deshmukh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
