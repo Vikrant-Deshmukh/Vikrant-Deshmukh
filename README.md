@@ -1,6 +1,6 @@
 I'm a software developer who is passionate about making open-source projects, creating technology to elevate and inspire people, and build a Strong community. 
 I’m currently working and looking to collaborate on anything 🐍  Python :p <br>
-⚡ Fun fact: I'm also a Health & Training Coach ;)
+
 
 ### Development Stack:
 <img align="left" alt="Python" width="26px" src="https://github.com/Vikrant-Deshmukh/Vikrant-Deshmukh/blob/master/Images/python.svg" />
